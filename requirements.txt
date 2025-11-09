@@ -1,0 +1,15 @@
+# Python packages required for GPS & Wyscout Sports Analytics ETL Pipeline
+
+# Database
+sqlalchemy>=2.0.0
+pandas>=2.0.0
+
+# Fuzzy string matching for team/player name matching
+rapidfuzz>=3.0.0
+
+# Word document reading (for documentation analysis)
+python-docx>=1.0.0
+
+# Optional: For better CSV handling
+openpyxl>=3.1.0
+
